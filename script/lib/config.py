@@ -15,6 +15,7 @@ PLATFORM = {
   'cygwin': 'win32',
   'darwin': 'darwin',
   'linux2': 'linux',
+  'freebsd11': 'bsd',
   'win32': 'win32',
 }[sys.platform]
 
